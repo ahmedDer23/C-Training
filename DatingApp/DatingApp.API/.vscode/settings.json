@@ -1,0 +1,6 @@
+{
+    "github.statusbar.enabled": false,
+    "git.showInlineOpenFileAction": false,
+    "git.useForcePushWithLease": false,
+    "git.enabled": false
+}
